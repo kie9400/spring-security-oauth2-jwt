@@ -1,1 +1,1 @@
-# be-template-spring-security-jwt-basic
+# be-template-spring-security-oauth2-basic

@@ -95,8 +95,6 @@ public class OrderService {
                 StampCalculator.calculateStampCount(stamp.getStampCount(),
                                                             earnedStampCount));
         member.setStamp(stamp);
-
-        memberService.updateMember(member);
     }
 
     private int calculateStampCount(Order order) {
