@@ -1,0 +1,1 @@
+# be-template-spring-security-jwt-basic
